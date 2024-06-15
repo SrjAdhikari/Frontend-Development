@@ -1,0 +1,52 @@
+li {
+    font-weight: 700;
+    /* font-size: 30px; */
+}
+
+/* CSS Class Selector */
+
+.html {
+    color: #e65127;
+}
+
+.css {
+    color: #0c73b8;
+}
+
+.js {
+    color: #e7a328;
+}
+
+.react {
+    color: #306e7e;
+}
+
+.tailwind {
+    color: #07b0cf;
+}
+
+/* CSS Id Selector */
+
+#html {
+    font-size: 30px;
+}
+#css {
+    font-size: 30px;
+}
+#js {
+    font-size: 30px;
+}
+#react {
+    font-size: 30px;
+}
+#tailwind {
+    font-size: 30px;
+}
+
+/* CSS Attribute Selector */
+/* CSS [attribute] Selector */
+/* The [attribute] selector is used to select elements with a specified attribute. */
+
+[class] {
+    background-color: lightgray;
+}
